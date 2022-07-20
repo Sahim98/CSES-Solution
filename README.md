@@ -1,3 +1,5 @@
 ### *CSES-Solution*
 
-Here i will be givig solution of problems of *sorting & searching* section
+Here i will be givig solutions of problem in **CSES**  *sorting & searching* section
+
+Editorial will be added soon.
