@@ -20,7 +20,22 @@ Editorial will be added soon in README section.
             <tr>
                 <td>01</td>
                 <td>Apartments</td>
-                <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Apartments.cpp">[Link]</a></td>
+                <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Apartments.cpp">[Solution]</a></td>
+            </tr>
+            <tr>
+                <td>02</td>
+                <td>Concert Tickets</td>
+                <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Concert Tickets.cpp">[Solution]</a></td>
+            </tr>
+            <tr>
+                <td>03</td>
+                <td>Distinct Numbers</td>
+                <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Distinct Numbers.cpp">[Solution]</a></td>
+            </tr>
+             <tr>
+                <td>04</td>
+                <td>Movie Festival</td>
+                <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Movie Festival.cpp">[Solution]</a></td>
             </tr>
         </table>
 
