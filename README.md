@@ -78,7 +78,21 @@ Editorial will be added soon in README section.
                 <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Collecting Numbers.cpp">[Solution]</a></td>
             </tr>
         </table>
-
+        </details>
+        <details>
+        <summary><b>Graph</b></summary>
+        <table>
+          <tr>
+                <th>#</th>
+                <th>Problem Title</th>
+                <th>Solution Template</th>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td>Building Roads</td>
+                <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Building Roads.cpp">[Solution]</a></td>
+            </tr>
+        </table>
 </details>
 
 <div align ="left">
