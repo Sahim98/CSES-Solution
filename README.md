@@ -42,6 +42,16 @@ Editorial will be added soon in README section.
                 <td>Nearest Smaller Values</td>
                 <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Nearest Smaller Values.cpp">[Solution]</a></td>
             </tr>
+              <tr>
+                <td>04</td>
+                <td>Restaurant Customers</td>
+                <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Restaurant Customers.cpp">[Solution]</a></td>
+            </tr>
+              <tr>
+                <td>04</td>
+                <td>Subarray Sums I</td>
+                <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Subarray Sums I.cpp">[Solution]</a></td>
+            </tr>
         </table>
 
 </details>
