@@ -62,6 +62,11 @@ Editorial will be added soon in README section.
                 <td>Sliding Median</td>
                 <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Sliding Median.cpp">[Solution]</a></td>
             </tr>
+            <tr>
+                <td>10</td>
+                <td>Maximum Subarray Sum</td>
+                <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Maximum Subarray Sum.cpp">[Solution]</a></td>
+            </tr>
         </table>
 
 </details>
