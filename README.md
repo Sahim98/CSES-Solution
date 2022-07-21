@@ -81,7 +81,7 @@ Editorial will be added soon in README section.
 
 </details>
 
-<div align ="center">
+<div align ="left">
 <img src = "https://media.giphy.com/media/aZVOjzbW8cPDm9PQzP/giphy.gif" width = "150">
 
 <div>
