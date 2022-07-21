@@ -52,6 +52,11 @@ Editorial will be added soon in README section.
                 <td>Subarray Sums I</td>
                 <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Subarray Sums I.cpp">[Solution]</a></td>
             </tr>
+            <tr>
+                <td>04</td>
+                <td>Sum of Two Values</td>
+                <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Sum of Two Values.cpp">[Solution]</a></td>
+            </tr>
         </table>
 
 </details>
