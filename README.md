@@ -90,7 +90,7 @@ Editorial will be added soon in README section.
             <tr>
                 <td>01</td>
                 <td>Building Roads</td>
-                <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Building Roads.cpp">[Solution]</a></td>
+                <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/Graph%20Algorithm/Building%20Roads.cpp">[Solution]</a></td>
             </tr>
         </table>
 </details>
