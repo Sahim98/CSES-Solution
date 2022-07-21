@@ -80,3 +80,8 @@ Editorial will be added soon in README section.
         </table>
 
 </details>
+
+<div align ="center">
+<img src = "https://media.giphy.com/media/aZVOjzbW8cPDm9PQzP/giphy.gif" width = "150">
+
+<div>
