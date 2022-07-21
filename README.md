@@ -73,7 +73,7 @@ Editorial will be added soon in README section.
                 <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Missing Coin Sum.cpp">[Solution]</a></td>
             </tr>
              <tr>
-                <td>11</td>
+                <td>12</td>
                 <td>Collecting Numbers</td>
                 <td><a href="https://github.com/Sahim98/CSES-Solution/blob/main/sorting%20%26%20searching/Collecting Numbers.cpp">[Solution]</a></td>
             </tr>
